@@ -19,5 +19,7 @@ This is a simple GUI application to search prices using Selenium and Tkinter.
 
 4. Run the app, 'python ap.py'
 
-5. Put ypur search term and click on Seach button
+5. Put your search term and click on Seach button
+   Get the item name, price, store name and link to it
+   
    ![alt text](image-1.png)
